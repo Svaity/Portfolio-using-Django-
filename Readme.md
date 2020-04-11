@@ -1,4 +1,6 @@
 <h1>Portfolio Using Django and Postgres<h1>
+  
+  [![BCH compliance](https://bettercodehub.com/edge/badge/Svaity/Portfolio-using-Django-Postgres?branch=master)](https://bettercodehub.com/)
 
 ![screenshot 2019-01-03 at 11 58 32 am](https://user-images.githubusercontent.com/43662680/50650916-ceed4500-0f4f-11e9-8e79-e2d0fd393304.png)
 ![screenshot 2019-01-03 at 11 58 29 am](https://user-images.githubusercontent.com/43662680/50650919-d0b70880-0f4f-11e9-9aee-4c4aabd5909c.png)
